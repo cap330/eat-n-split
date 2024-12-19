@@ -16,3 +16,5 @@
         https://i.pravatar.cc/150?img=3
 
         crypto.randomUUID()
+
+098 Selecting a Friend
